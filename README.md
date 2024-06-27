@@ -1,9 +1,9 @@
 # Tutorial-docker-container
 Ensinar alguns comandos basicos docker
 ### Instalar Docker
-
+```
 curl -fsSL https://get.docker.com | bash
-
+```
 ### Configuração dos Containers Docker
 
 Criar um grupo docker: (caso não seja criado automaticamente)

@@ -52,9 +52,13 @@ docker run -d --user root --network <nome da rede> --mount type=volume,src=grafa
 Comandos Básicos Docker:
 
 Docker container ls = Lista os containers que estão em execução
+
 Docker container ls -a = Lista até os container parados
+
 Docker container stop = Pausa o container
+
 Docker container start = Reinicia o container
+
 Docker container rm ID_do_Container = Deleta o container em excução.
 
 
